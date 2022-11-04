@@ -1,0 +1,3 @@
+1) https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e
+2) https://amin-ahmadi.com/cascade-trainer-gui/
+3)https://www.youtube.com/watch?v=ydSXgBZ1ybk
